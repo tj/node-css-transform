@@ -1,0 +1,9 @@
+#logo {
+  -moz-border-radius: 5px 10px;
+  -webkit-border-radius: 5px 10px;
+  -moz-transition: border-radius 500ms;
+  -webkit-transition: border-radius 500ms;
+  transition: border-radius 500ms;
+  border-radius: 5px 10px;
+  color: red
+}

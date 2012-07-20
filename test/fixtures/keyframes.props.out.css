@@ -1,0 +1,33 @@
+@-webkit-keyframes fade {
+  from {
+    -webkit-border-radius: 5px;
+    border-radius: 5px
+  }
+
+  to {
+    -webkit-border-radius: 10px;
+    border-radius: 10px
+  }
+}
+
+@-moz-keyframes fade {
+  from {
+    -moz-border-radius: 5px;
+    border-radius: 5px
+  }
+
+  to {
+    -moz-border-radius: 10px;
+    border-radius: 10px
+  }
+}
+
+@keyframes fade {
+  from {
+    border-radius: 5px
+  }
+
+  to {
+    border-radius: 10px
+  }
+}

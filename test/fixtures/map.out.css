@@ -1,0 +1,5 @@
+.box {
+  background: -webkit-linear-gradient(white, black);
+  width: 50px;
+  height: 50px
+}

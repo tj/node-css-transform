@@ -1,0 +1,8 @@
+
+#dialog {
+  border-radius: 10px 5px;
+}
+
+#dialog .close {
+  border-radius: 10px;
+}
